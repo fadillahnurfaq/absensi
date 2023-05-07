@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>612331726560-cjs40qdb4f4e8i6diknpge5id3qk4287.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.612331726560-cjs40qdb4f4e8i6diknpge5id3qk4287</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzplE3PkBZjii8XCuYAxQ1B815bc2ZrTw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>612331726560</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.atlitgagal.absensi</string>
+	<key>PROJECT_ID</key>
+	<string>absensi-b1213</string>
+	<key>STORAGE_BUCKET</key>
+	<string>absensi-b1213.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:612331726560:ios:ccb1e1014a5f4f78811285</string>
+</dict>
+</plist>

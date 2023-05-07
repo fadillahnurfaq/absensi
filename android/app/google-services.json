@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612331726560",
+    "project_id": "absensi-b1213",
+    "storage_bucket": "absensi-b1213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612331726560:android:f06170d4e2d3aea5811285",
+        "android_client_info": {
+          "package_name": "com.atlitgagal.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612331726560-rvbvshahh7l9r053p8n6ch152805q1kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGuQe66_KKlOvio3xn1EGguhDpK3Dj4Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612331726560-rvbvshahh7l9r053p8n6ch152805q1kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
